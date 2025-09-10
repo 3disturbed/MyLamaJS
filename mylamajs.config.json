@@ -1,0 +1,11 @@
+{
+  "baseURL": "http://localhost:11434",
+  "timeoutMs": 60000,
+  "defaultHeaders": { "Content-Type": "application/json" },
+  "endpoint": "/api/generate",
+  "models": [
+    "gemma3:4b"
+
+  ]
+}
+
